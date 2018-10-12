@@ -1,2 +1,2 @@
 # curetablet
-software tablets enabling insights and cure for chronic illness powered by deep learning and ai. 
+Open Source project enabling insights and cure for chronic illness powered by deep learning and ai. 
